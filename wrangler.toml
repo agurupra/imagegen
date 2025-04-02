@@ -8,7 +8,7 @@ pages_build_output_dir = ".vercel/output/static"
 binding = "AI"
 
 [[r2_buckets]]
-bucket_name = "ai-img-playground"
+bucket_name = "ai-img-playground2"
 binding = "BUCKET"
 
 [vars]
